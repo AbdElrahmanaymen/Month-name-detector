@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1500725778 source:e:\codeblocks projs\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1500726104 source:e:\programming\codeblocks projs\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
